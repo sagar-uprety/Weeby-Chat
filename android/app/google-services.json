@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "426428676046",
+    "firebase_url": "https://flash-chat-becb2.firebaseio.com",
+    "project_id": "flash-chat-becb2",
+    "storage_bucket": "flash-chat-becb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426428676046:android:0dc3b9b880b55f4e939d9f",
+        "android_client_info": {
+          "package_name": "com.sagaruprety.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426428676046-mh4gamh1nf9davn8jc1c94r3cg2tk8b0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6_hX6hNwCBs8rOi3O27tMSuwpr2Iym0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426428676046-mh4gamh1nf9davn8jc1c94r3cg2tk8b0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
