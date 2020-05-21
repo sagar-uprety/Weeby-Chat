@@ -1,7 +1,5 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
-
-# Flash Chat ⚡️
+# Weeby Chat ⚡️
 
 ## Our Goal
 
